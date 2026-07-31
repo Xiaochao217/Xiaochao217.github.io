@@ -6,7 +6,13 @@
   <hr />
 </div>
   <div id="tcomment"></div>
-  <script src="/twikoo168.js"></script>
-  <script>twikoo.init({ envId: 'https://chat.lillianwho.com/', el: '#tcomment' })</script>
+ <script src="https://s4.zstatic.net/npm/twikoo@1.7.15/dist/twikoo.min.js"></script>
+<script>
+  twikoo.init({
+    envId: 'https://xiaochao.netlify.app/.netlify/functions/twikoo',
+    el: '#tcomment',
+    lang: 'zh-CN'
+  })
+</script>
   {{- end }}
 {{- end }}
