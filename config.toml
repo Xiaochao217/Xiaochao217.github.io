@@ -1,7 +1,7 @@
-baseURL = 'https://lillianwho.com/'
+baseURL = 'https://xiaochao217.github.io/'
 languageCode = 'zh-CN'
 timeZone = 'Asia/Shanghai'
-title = 'Lillian Who'
+title = 'Xiao chao blog'
 
 # 主题
 theme  =  "hello-friend"
