@@ -1,7 +1,7 @@
 ---
-title: '关于我'
-date: 2022-02-21 19:57:45
-layout: 'posts'
+title: 关于我
+date: 2026-07-31
+layout: posts
 hideInList: false
 ---
 
