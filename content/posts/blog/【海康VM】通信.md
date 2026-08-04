@@ -1,8 +1,9 @@
 ---
 title: 【海康VM】通信
-date: 2026-7-7.31 17:23
+date: 2026-07-31
 tags:
   - 海康
+  - 软件使用
 url:
   - https://blog.csdn.net/weixin_58024114/article/details/149943823?spm=1001.2014.3001.5502
 ---
