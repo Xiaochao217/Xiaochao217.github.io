@@ -1,6 +1,6 @@
 ---
 title: 关于我
-date: 2026-07-31
+date: 2022-07-31
 layout: posts
 hideInList: true
 ---
