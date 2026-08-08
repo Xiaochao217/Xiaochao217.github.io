@@ -436,6 +436,12 @@ body {
 	line-height: 2.2;
 	background-color: #fff;
 	background-color: var(--light-background);
+	background-image: url("/background.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
 	color: #222;
 	color: var(--light-color);
 	-webkit-overflow-scrolling: touch;
