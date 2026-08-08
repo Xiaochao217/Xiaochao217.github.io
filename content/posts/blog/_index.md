@@ -1,4 +1,4 @@
 ---
-title: "obsidian"
-slug: "obsidian"
+title: "blog"
+slug: "blog"
 ---
